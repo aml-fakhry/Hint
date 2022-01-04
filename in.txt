@@ -1,0 +1,78 @@
+Azores Standard Time (GMT-01:00) Azores Atlantic/Azores
+ Cape Verde Standard Time (GMT-01:00) Cape Verde Islands Atlantic/Cape_Verde
+ Mid-Atlantic Standard Time (GMT-02:00) Mid-Atlantic Atlantic/South_Georgia
+ E. South America Standard Time (GMT-03:00) Brasilia America/Sao_Paulo
+ SA Eastern Standard Time (GMT-03:00) Buenos Aires, Georgetown America/Argentina/Buenos_Aires
+ Greenland Standard Time (GMT-03:00) Greenland America/Godthab
+ Newfoundland Standard Time (GMT-03:30) Newfoundland and Labrador America/St_Johns
+ Atlantic Standard Time (GMT-04:00) Atlantic Time (Canada) America/Halifax
+ SA Western Standard Time (GMT-04:00) Caracas, La Paz America/La_Paz
+ Central Brazilian Standard Time (GMT-04:00) Manaus America/Cuiaba
+ Pacific SA Standard Time (GMT-04:00) Santiago America/Santiago
+ SA Pacific Standard Time (GMT-05:00) Bogota, Lima, Quito America/Bogota
+ Eastern Standard Time (GMT-05:00) Eastern Time (US and Canada) America/New_York
+ US Eastern Standard Time (GMT-05:00) Indiana (East) America/Indiana/Indianapolis
+ Central America Standard Time (GMT-06:00) Central America America/Costa_Rica
+ Central Standard Time (GMT-06:00) Central Time (US and Canada) America/Chicago
+ Central Standard Time (Mexico) (GMT-06:00) Guadalajara, Mexico City, Monterrey America/Monterrey
+ Canada Central Standard Time (GMT-06:00) Saskatchewan America/Edmonton
+ US Mountain Standard Time (GMT-07:00) Arizona America/Phoenix
+ Mountain Standard Time (Mexico) (GMT-07:00) Chihuahua, La Paz, Mazatlan America/Chihuahua
+ Mountain Standard Time (GMT-07:00) Mountain Time (US and Canada) America/Denver
+ Pacific Standard Time (GMT-08:00) Pacific Time (US and Canada); Tijuana America/Tijuana
+ Alaskan Standard Time (GMT-09:00) Alaska America/Anchorage
+ Hawaiian Standard Time (GMT-10:00) Hawaii Pacific/Honolulu
+ Samoa Standard Time (GMT-11:00) Midway Island, Samoa Pacific/Apia
+ Greenwich Standard Time (GMT) Casablanca, Monrovia Africa/Monrovia
+ GMT Standard Time (GMT) Greenwich Mean Time : Dublin, Edinburgh, Lisbon, London Europe/London
+ W. Europe Standard Time (GMT+01:00) Amsterdam, Berlin, Bern, Rome, Stockholm, Vienna Europe/Berlin
+ Central Europe Standard Time (GMT+01:00) Belgrade, Bratislava, Budapest, Ljubljana, Prague Europe/Belgrade
+ Romance Standard Time (GMT+01:00) Brussels, Copenhagen, Madrid, Paris Europe/Paris
+ Central European Standard Time (GMT+01:00) Sarajevo, Skopje, Warsaw, Zagreb Europe/Belgrade
+ W. Central Africa Standard Time (GMT+01:00) West Central Africa Africa/Lagos
+ GTB Standard Time (GMT+02:00) Athens, Bucharest, Istanbul Europe/Istanbul
+ Egypt Standard Time (GMT+02:00) Cairo Africa/Cairo
+ South Africa Standard Time (GMT+02:00) Harare, Pretoria Africa/Harare
+ FLE Standard Time (GMT+02:00) Helsinki, Kiev, Riga, Sofia, Tallinn, Vilnius Europe/Riga
+ Israel Standard Time (GMT+02:00) Jerusalem Asia/Jerusalem
+ E. Europe Standard Time (GMT+02:00) Minsk Europe/Minsk
+ Namibia Standard Time (GMT+02:00) Windhoek Africa/Windhoek
+ Arabic Standard Time (GMT+03:00) Baghdad Asia/Baghdad
+ Arab Standard Time (GMT+03:00) Kuwait, Riyadh Asia/Kuwait
+ Russian Standard Time (GMT+03:00) Moscow, St. Petersburg, Volgograd Europe/Moscow
+ E. Africa Standard Time (GMT+03:00) Nairobi Africa/Nairobi
+ Iran Standard Time (GMT+03:30) Tehran Asia/Tehran
+ Arabian Standard Time (GMT+04:00) Abu Dhabi, Muscat Asia/Muscat
+ Azerbaijan Standard Time (GMT+04:00) Baku Asia/Baku
+Georgian Standard Time (GMT+04:00) Tblisi Asia/Tbilisi
+Caucasus Standard Time (GMT+04:00) Yerevan Asia/Yerevan
+Afghanistan Standard Time (GMT+04:30) Kabul Asia/Kabul
+Ekaterinburg Standard Time (GMT+05:00) Ekaterinburg Asia/Yekaterinburg
+West Asia Standard Time (GMT+05:00) Islamabad, Karachi, Tashkent Asia/Tashkent
+India Standard Time (GMT+05:30) Chennai, Kolkata, Mumbai, New Delhi Asia/Calcutta
+Nepal Standard Time (GMT+05:45) Kathmandu Asia/Kathmandu
+N. Central Asia Standard Time (GMT+06:00) Almaty, Novosibirsk Asia/Novosibirsk
+Central Asia Standard Time (GMT+06:00) Astana, Dhaka Asia/Almaty
+Sri Lanka Standard Time (GMT+06:00) Sri Jayawardenepura Asia/Colombo
+Myanmar Standard Time (GMT+06:30) Yangon (Rangoon) Asia/Rangoon
+SE Asia Standard Time (GMT+07:00) Bangkok, Hanoi, Jakarta Asia/Bangkok
+North Asia Standard Time (GMT+07:00) Krasnoyarsk Asia/Krasnoyarsk
+China Standard Time (GMT+08:00) Beijing, Chongqing, Hong Kong SAR, Urumqi Asia/Shanghai
+North Asia East Standard Time (GMT+08:00) Irkutsk, Ulaanbaatar Asia/Irkutsk
+Singapore Standard Time (GMT+08:00) Kuala Lumpur, Singapore Asia/Singapore
+ W. Australia Standard Time (GMT+08:00) Perth Australia/Perth
+ Taipei Standard Time (GMT+08:00) Taipei Asia/Taipei
+ Tokyo Standard Time (GMT+09:00) Osaka, Sapporo, Tokyo Asia/Tokyo
+ Korea Standard Time (GMT+09:00) Seoul Asia/Seoul
+ Yakutsk Standard Time (GMT+09:00) Yakutsk Asia/Yakutsk
+ Cen. Australia Standard Time (GMT+09:30) Adelaide Australia/Adelaide
+ AUS Central Standard Time (GMT+09:30) Darwin Australia/Darwin
+ E. Australia Standard Time (GMT+10:00) Brisbane Australia/Brisbane
+ AUS Eastern Standard Time (GMT+10:00) Canberra, Melbourne, Sydney Australia/Sydney
+ West Pacific Standard Time (GMT+10:00) Guam, Port Moresby Pacific/Guam
+ Tasmania Standard Time (GMT+10:00) Hobart Australia/Hobart
+ Vladivostok Standard Time (GMT+10:00) Vladivostok Asia/Vladivostok
+ Central Pacific Standard Time (GMT+11:00) Magadan, Solomon Islands, New Caledonia Pacific/Guadalcanal
+ New Zealand Standard Time (GMT+12:00) Auckland, Wellington Pacific/Auckland
+ Fiji Standard Time (GMT+12:00) Fiji Islands, Kamchatka, Marshall Islands Pacific/Fiji
+ Tonga Standard Time (GMT+13:00) Nuku'alofa Pacific/Tongatapu
