@@ -1,4 +1,5 @@
-import { sum } from 'lodash';
+import lodash from 'lodash';
+const { sum } = lodash;
 function genRand(min, max, decimalPlaces) {
   const rand = Math.random() * (max - min) + min;
   const power = Math.pow(10, decimalPlaces);
@@ -46,3 +47,5 @@ export function round(number, decimalDigits) {
   console.log({ tranceNumber });
   return Math.round(tranceNumber * power + Number.EPSILON * power) / power;
 }
+const finalResult = round(sumLodashData, 2);
+console.log({ finalResult });
