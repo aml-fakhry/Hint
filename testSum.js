@@ -41,11 +41,15 @@ console.log({ sumData });
  * @param decimalDigits The number of digits to appear after the decimal point.
  * @returns A number representing the given number using fixed-point notation without round.
  */
-export function round(number, decimalDigits) {
+export function round(number, decimalDigits = 2) {
   const power = Math.pow(10, decimalDigits);
-  const tranceNumber = Math.trunc(number * power) / power;
-  console.log({ tranceNumber });
-  return Math.round(tranceNumber * power + Number.EPSILON * power) / power;
+  const truncateNumber = Math.trunc(number * power) / power;
+  console.log({ truncateNumber });
+  return Math.round(truncateNumber * power + Number.EPSILON * power) / power;
 }
-const finalResult = round(sumLodashData, 2);
+const finalResult = round(sumLodashData);
 console.log({ finalResult });
+
+const randomNumber = round(101.75999999999998);
+const randomNumber2 = round(66.759999999999999);
+console.log({ randomNumber }, { randomNumber2 });
