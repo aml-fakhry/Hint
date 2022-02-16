@@ -18,6 +18,8 @@
     "url": "https://github.com/aml-fakhry/Hint/issues"
   },
   "dependencies": {
+    "big.js": "^6.1.1",
+    "bignumber.js": "^9.0.2",
     "lodash": "^4.17.21",
     "nodemon": "^2.0.15"
   },
