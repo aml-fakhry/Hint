@@ -1,5 +1,12 @@
 import Big from 'big.js';
 import BigNumber from 'bignumber.js';
+import decimal from 'decimal.js';
+const r = decimal.sum(0.1, 0.1).toNumber();
+const f = new decimal(2.5).toNumber();
+const s = new decimal(1.077779).toNumber();
+console.log(f - s);
+
+console.log(r);
 /* normal sum */
 let sum = 0;
 const amount = 2.55;
