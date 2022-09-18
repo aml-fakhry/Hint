@@ -37,6 +37,6 @@ console.log(linesTokens.join(',' + os.EOL));
 
 function getOffset(time) {
   const offset = time.substring(time.indexOf('GMT') + 3, time.indexOf(':'));
-  
+
   return Number(offset) * 60;
 }
